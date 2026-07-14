@@ -17,7 +17,6 @@ This project is a personal web profile website developed using HTML. The website
 ## Technologies Used
 
 * HTML5
-* Basic CSS Styling
 
 ## Purpose
 
